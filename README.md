@@ -1,6 +1,6 @@
 # Free-Field-displacement-get
 用于读取自由场土体位移坐标
-
+0. 把Tracer建一个display group
 1. 首先读取各个Tracer的坐标到COOR_BFAF.csv
 2. 导出各个Tracer的位移
 3. 把1， 2拼到一起，然后再map
